@@ -1,7 +1,5 @@
 ## Game name:
-Framework
-## Version of the game: 
-Version 1.0
+FlappyDoggy V1.0
 ## Tools:
 - Framework - LibGDX - https://github.com/libgdx/libgdx
 - Language – Java
