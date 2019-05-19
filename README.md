@@ -14,8 +14,8 @@ Version 1.0
 - Import project (.../flappydoggy/build.gradle)
 - Build flappydoggy/flappydoggy.desktop/com.Flappydoggy.game.desktop/DesktopLauncher.java
 - Edit configurations for DesktopLauncher:
-``` -Main class: com.flappydoggy.game.desktop.DesktopLauncher ```
-``` -Working directory: ...\flappydoggy\core\assets ```
+``` - Main class: com.flappydoggy.game.desktop.DesktopLauncher ```
+``` - Working directory: ...\flappydoggy\core\assets ```
 ``` - Use classpath of module: flappydoggy.desktop ```
 - Run DesktopLauncher.java
 ### Eclipse: 
