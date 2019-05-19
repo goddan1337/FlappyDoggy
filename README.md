@@ -1,13 +1,16 @@
 ## Game name:
-FlappyDoggy
+Framework
+
 ---
 ## Version of the game: 
 Version 1.0
+
 ---
 ## Tools:
 - Framework - LibGDX - https://github.com/libgdx/libgdx
 - Language – Java
 - IDE - IntelliJ IDEA
+
 ---
 ## How to compile:
 ### IntelliJIDEA:
