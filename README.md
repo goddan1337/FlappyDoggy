@@ -1,17 +1,11 @@
 ## Game name:
 Framework
-
----
 ## Version of the game: 
 Version 1.0
-
----
 ## Tools:
 - Framework - LibGDX - https://github.com/libgdx/libgdx
 - Language – Java
 - IDE - IntelliJ IDEA
-
----
 ## How to compile:
 ### IntelliJIDEA:
 - Import project (.../flappydoggy/build.gradle)
@@ -21,6 +15,7 @@ Version 1.0
   - Working directory: ...\flappydoggy\core\assets
   - Use classpath of module: flappydoggy.desktop
 - Run DesktopLauncher.java
+---
 ### Eclipse: 
 - Open project from File System... -> Import source: flappydoggy
 - Project properties -> Run/Debug Settings -> Select DesktopLauncher -> 
